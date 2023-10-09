@@ -12,3 +12,4 @@
 **Результаты тестирования**<br />
 ![Снимок экрана 2023-10-07 021341](https://github.com/jonyks/labaratory-work-3/assets/146552678/6f7ec40f-b2d1-45cb-a366-6922484c4428)
 ![Снимок экрана 2023-10-07 021438](https://github.com/jonyks/labaratory-work-3/assets/146552678/e52626e7-f1a0-424f-bfe6-7e5cbda40846)
+![Снимок экрана 2023-10-09 202446](https://github.com/jonyks/labaratory-work-3/assets/146552678/5dcf9996-f5cd-4492-b6ab-fa515c4a948d)
